@@ -1,4 +1,4 @@
-- Hi, I’m @kevindinh3
+- Hi, my name is Kevin Dinh
 - I’m interested in web development
 - I’m currently learning html,css,javascript,react, python,sql and django
 - I’m looking to collaborate on any projects!!
